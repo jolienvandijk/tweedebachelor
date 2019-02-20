@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Jolien van Dijk",
-    "currentPage": "page6.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2272,39 +2272,6 @@
           "_global": true,
           "_once": "menu",
           "_params": {}
-        },
-        {
-          "_params": {
-            "token": "1509999149.727bfe1.87617f6f0d894fada9cfff0f82b45c35",
-            "showTitle": false,
-            "layoutGridRadio": true,
-            "imagesPerRowGrid": 4,
-            "rows": 2,
-            "showMoreButton": true,
-            "layoutSliderRadio": false,
-            "imagesPerRowSlider": 4,
-            "spacing": 5,
-            "fullWidth": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColorRadio": false,
-            "bgColor": "#fafafa",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
-            "overlay": false,
-            "overlayColor": "#efefef",
-            "overlayOpacity": 0.6
-          },
-          "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
-          "display2": "display-2",
-          "display4": "display-4",
-          "alias": "instagram-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-s"
         }
       ]
     },
@@ -3271,7 +3238,7 @@
             "bgColorRadio": true,
             "bgColor": "#fafafa",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
             "overlay": false,
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
@@ -3729,7 +3696,7 @@
             "bgColorRadio": true,
             "bgColor": "#fafafa",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
             "overlay": false,
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
