@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Jolien van Dijk",
-    "currentPage": "groefevents.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -62,9 +62,10 @@
     "uniqCompNum": 20,
     "versionPublish": "4.9.1",
     "screenshot": "screenshot.png",
-    "cookiesAlert": "",
-    "gdpr": "",
-    "siteUrl": "undefined"
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "siteUrl": "undefined",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-135283371-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-135283371-1');\r\n</script>"
   },
   "pages": {
     "home.html": {
